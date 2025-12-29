@@ -1,0 +1,40 @@
+01. Olly + assembler + patching một reverseme cơ bản
+02. Keyfiling cho reverseme + assembler
+03. Xóa màn hình Nag cơ bản + các vấn đề về header
+04. Patching cơ bản + patching giao diện (aesthetic)
+05. So sánh thay đổi trong lệnh nhảy có điều kiện, animate over/in, breakpoints
+06. "Phương pháp patching ngốc nghếch", tìm kiếm chuỗi văn bản
+07. Patching trình độ trung cấp, Kanal trong PEiD
+08. Debug với W32Dasm, RVA, VA và offset, sử dụng LordPE như một hexeditor
+09. Giải thích khái niệm Visual Basic, giới thiệu SmartCheck và cấu hình
+10. Các kỹ thuật reversing tiếp theo trong VB, sử dụng decompiler và anti-anti-trick cơ bản
+11. Patching trung cấp sử dụng "cửa sổ pane" của Olly
+12. Điều hướng chương trình bằng cách patching nhiều điểm
+13. Sử dụng API trong phần mềm, tránh các bẫy kiểm tra kép
+14. Các sơ đồ khó hơn và giới thiệu về inline patching
+15. Cách nghiên cứu hành vi trong code, tiếp tục inlining sử dụng con trỏ
+16. Reversing sử dụng tài nguyên (resources)
+17. Kiến thức và thực hành tạo keygen cơ bản (tự tạo key)
+18. Mã đánh lạc hướng, mã hóa/giải mã, mã tự sửa đổi và đa hình
+19. Phát hiện debugger và các kỹ thuật chống-chống-hack
+20. Packers và protectors: giới thiệu
+21. Xây dựng lại Imports
+22. Chuyển hướng API (API Redirection)
+23. Stolen bytes (Các byte bị đánh cắp)
+24. Patching tại runtime sử dụng loader từ bản gốc lena151
+25. Tiếp tục patching tại runtime & unpack bảo vệ armadillo chuẩn
+26. Loader đặc thù cho máy, unpacking & debugging armadillo
+27. tElock + patching nâng cao
+28. Vượt qua & loại bỏ kiểm tra server
+29. Loại bỏ & inline một kiểm tra server khó hơn
+30. SFX, Run Trace & tìm kiếm chuỗi nâng cao hơn
+31. Delphi trong Olly & DeDe
+32. Mẹo của tác giả, HIEW & các phương pháp trong inline patching
+33. FPU, kiểm tra toàn vẹn & loader so với patcher
+34. Kỹ thuật reversing phần mềm bị nén (packed) & loader tìm-và-thay-thế cho ASProtect
+35. Inlining bên trong mã đa hình
+36. Tạo Keygen (Keygenning)
+37. Unpacking chuyên sâu & chống-chống-debugging một sự kết hợp packer / protector
+38. Tiếp tục Unpacking & phát hiện debugger bằng DLL và TLS
+39. Inline một sơ đồ blowfish trong dll bị nén & bảo vệ CRC + unpack Asprotect SKE 2.2
+40. Làm rối mã (Obfuscation) và giấu thuật toán
